@@ -28,8 +28,8 @@
 - Изучаю администрирование баз данных на MySQL
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](@Lidiya_cutie)
-- [Kaggle]()
+- [Telegram](https://web.telegram.org/k/#@The_Reborned_Thing)
+- [Kaggle](https://www.kaggle.com/lidiyacutie)
 
 ---
 
