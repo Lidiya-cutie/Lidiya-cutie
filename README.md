@@ -65,6 +65,6 @@
 - 
 
 ### 🙌🏻 Contact me
-- [linkedin](www.linkedin.com/in/lidya-korotkova-a363b5274) 
+- [https://www.linkedin.com/in/lidya-korotkova-a363b5274/] 
 - [Telegram]()
 - [Kaggle]()
