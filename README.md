@@ -35,7 +35,7 @@
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://web.telegram.org/k/#@The_Reborned_Thing)
 - [Kaggle](https://www.kaggle.com/lidiyacutie)
-
+- [linkedin](https://www.linkedin.com/in/lidya-korotkova-a363b5274)
 ---
 
 ### Hello! 👋
