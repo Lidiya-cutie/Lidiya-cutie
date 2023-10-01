@@ -5,7 +5,7 @@
   - РГПУ (Бакалавр): 
   - РГПУ (Магистр):
   - РАНХиГС (Переподговка): Экономика и управление на предприятии
-* Окунулась в Data Science в 2022, до этого работала до этого работала в разных сферах 
+* Окунулась в Data Science в 2022, до этого работала в разных сферах 
 * Область интересов: анализ данных и использование методов машинного обучения в банкинге
 * На данный момент активно вникаю в Data Science и Mashine Learnning
 
@@ -21,7 +21,7 @@
 * Кликни [сюда](https://github.com/Lidiya-cutie/Mini_project_model_Netflix), чтобы посмотреть мини-проект по построению рекомендательной системы content-based model на основе популярности 
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, My SQL
+- Инструменты: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL
 - Skills: 
     * 
     * 
@@ -43,16 +43,15 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
+ - RGPU (Bachelor):
+ - RGPU (Master):
+ - RANEPA (Retraining): Economics and enterprise management
+* Plunged into Data Science in 2022, before that she worked in various fields
+* Area of interest: data analysis and the use of machine learning methods in banking
+* Currently I am actively delving into Data Science and Machine Learning 
 
 ### 💡 Core competencies 💡
-- Tools: 
+- Tools: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL
   - Skills:
     * 
     * 
@@ -60,10 +59,10 @@
 
 
 ### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
+- I'm undergoing DS training at Skillfactory
+- I'm also studying ML at Mathshub
+- I'm studying database administration in MySQL, SQLite, PostgreSQL
+- I'm a curator at the Mathshub IT school 
 
 ### 🙌🏻 Contact me
 - [Telegram](https://web.telegram.org/k/#@The_Reborned_Thing)
