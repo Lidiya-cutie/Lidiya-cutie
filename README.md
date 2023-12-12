@@ -35,7 +35,7 @@
 - Являюсь куратором в IT-школе Mathshub
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](https://web.telegram.org/k/#@The_Reborned_Thing)
+- [Telegram](https://t.me/Lidiya_cutie)
 - [Kaggle](https://www.kaggle.com/lidiyacutie)
 - [linkedin](https://www.linkedin.com/in/lidya-korotkova-a363b5274)
 ---
@@ -66,6 +66,6 @@
 - I'm a curator at the Mathshub IT school 
 
 ### 🙌🏻 Contact me
-- [Telegram](https://web.telegram.org/k/#@The_Reborned_Thing)
+- [Telegram](https://t.me/Lidiya_cutie)
 - [Kaggle](https://www.kaggle.com/lidiyacutie)
 - [linkedin](https://www.linkedin.com/in/lidya-korotkova-a363b5274)
