@@ -18,9 +18,9 @@
 
 * [Репозиторий с проектами Data Science, ML-engineer, Продуктовой аналитике](https://github.com/Lidiya-cutie/MyProjects/blob/master/README.md)
 * [Сертификаты о прохождении курсов](https://github.com/Lidiya-cutie/certificates)
-* [Профиль на Kaggle](https://www.kaggle.com/lidiyacutie)
 * [Профиль на LinkedIn](https://www.linkedin.com/in/lidiya-korotkova-a363b5274)
-
+* [Профиль на Kaggle](https://www.kaggle.com/lidiyacutie)
+* 
 ### 💡 Основные компетенции 💡
 - Инструменты: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Работа с базами данных, Big Data, Data Science, Tableau, Power BI, Визуализация данных, Machine Learning, Базы данных, Linux, Git, Работа с большим объемом информации, Аналитика, Plotly, Jupiter, Сводные таблицы
 - Skills: 
