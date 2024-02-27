@@ -16,7 +16,7 @@
 
 ### 📚 Навигация 📚
 
-* Репозиторий с проектами Data Science
+* [Репозиторий с проектами Data Science, ML-engineer, Продуктовой аналитике](https://github.com/Lidiya-cutie/MyProjects/blob/master/README.md)
 * Сертификаты о прохождении курсов
 * [Профиль на Kaggle](https://www.kaggle.com/lidiyacutie)
 * [Профиль на LinkedIn](https://www.linkedin.com/in/lidiya-korotkova-a363b5274)
