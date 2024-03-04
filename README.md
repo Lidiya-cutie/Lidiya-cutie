@@ -10,7 +10,7 @@
 
 * Окунулась в Data Science в 2022, до этого работала в разных сферах 
 * Область интересов: анализ данных и использование методов машинного обучения в банкинге
-* На данный момент активно вникаю в Data Science и Mashine Learnning
+* На данный момент активно вникаю в Data Science и Maсhine Learnning
 
   
 
@@ -22,11 +22,7 @@
 * [Профиль на Kaggle](https://www.kaggle.com/lidiyacutie)
 * 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Работа с базами данных, Big Data, Data Science, Tableau, Power BI, Визуализация данных, Machine Learning, Базы данных, Linux, Git, Работа с большим объемом информации, Аналитика, Plotly, Jupiter, Сводные таблицы
-- Skills: 
-    * 
-    * 
-    * 
+- Skills: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Работа с базами данных, Big Data, Data Science, Tableau, Power BI, Визуализация данных, Machine Learning, Базы данных, Linux, Git, Работа с большим объемом информации, Аналитика, Plotly, Jupiter, Сводные таблицы
 
 ### ⚡️ В настоящее время ⚡️
 - Являюсь Data Scientist образовательной платформы
@@ -52,11 +48,7 @@
 * Currently I am actively delving into Data Science and Machine Learning 
 
 ### 💡 Core competencies 💡
-  - Tools: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Работа с базами данных, Big Data, Data Science, Tableau, Power BI, Визуализация данных, Machine Learning, Базы данных, Linux, Git, Работа с большим объемом информации, Аналитика, Plotly, Jupiter, Сводные таблицы
-  - Skills:
-    * 
-    * 
-    * 
+  - Skills: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Working with databases, Big Data, Data Science, Tableau, Power BI, Data visualization, Machine Learning, Databases, Linux, Git, Working with large volume of information, Analytics, Plotly, Jupiter, Pivot tables
 
 
 ### ⚡️ Currently ⚡️
