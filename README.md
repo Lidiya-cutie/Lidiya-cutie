@@ -39,11 +39,10 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - RGPU (Bachelor):
- - RGPU (Master):
- - RANEPA (Retraining): Economics and enterprise management
- - Skillfactory: Data Science
- - Mathshub: ML-engineer
+  - RGPU (Master):
+  - RANEPA (Retraining): Economics and enterprise management
+  - Skillfactory: Data Science
+  - Mathshub: ML-engineer
    
 * Started exploring Data Science in 2022 after working in various fields
   - Data Scientist at OOO "Mathematical Hub" (since 2023)
