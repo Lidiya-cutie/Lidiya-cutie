@@ -2,14 +2,16 @@
 
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование:
-  - РГПУ (Бакалавр): 
   - РГПУ (Магистр):
   - РАНХиГС (Переподговка): Экономика и управление на предприятии
   - Skillfactory (2023): Data Science
   - Mathshub (2024): ML-engineer
 
-* Окунулась в Data Science в 2022, до этого работала в разных сферах 
-* Область интересов: анализ данных и использование методов машинного обучения в банкинге
+* Окунулась в Data Science в 2022, до этого работала в разных сферах
+  - Data Scientist в OOO "Математический хаб" (с 2023)
+  - ML-engineer в "МСДис" (с 2024)
+
+* Область интересов: анализ данных, использование методов машинного обучения и СV
 * На данный момент активно вникаю в Data Science и Maсhine Learnning
 
   
@@ -43,9 +45,12 @@
  - Skillfactory: Data Science
  - Mathshub: ML-engineer
    
-* Plunged into Data Science in 2022, before that she worked in various fields
-* Area of interest: data analysis and the use of machine learning methods in banking
-* Currently I am actively delving into Data Science and Machine Learning 
+* Started exploring Data Science in 2022 after working in various fields
+  - Data Scientist at OOO "Mathematical Hub" (since 2023)
+  - ML Engineer at "MSDis" (since 2024)
+* Interests: data analysis, machine learning, and computer vision
+
+* Currently deepening knowledge in Data Science and Machine Learning 
 
 ### 💡 Core competencies 💡
   - Skills: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Working with databases, Big Data, Data Science, Tableau, Power BI, Data visualization, Machine Learning, Databases, Linux, Git, Working with large volume of information, Analytics, Plotly, Jupiter, Pivot tables
