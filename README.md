@@ -56,7 +56,7 @@
 
 
 ### ⚡️ Currently ⚡️
-- I'm a Data Scientist of an educational platform
+- I'm a ML-engineer at an IT company & Data Scientist of an educational platform
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/Lidiya_cutie)
