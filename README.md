@@ -1,11 +1,6 @@
 ### Привет! 👋
 
 ### ✨ Обо мне за 30 секунд ✨ 
-* 🎓 Образование:
-  - РГПУ (Магистр):
-  - РАНХиГС (Переподговка): Экономика и управление на предприятии
-  - Skillfactory (2023): Data Science
-  - Mathshub (2024): ML-engineer
 
 * Окунулась в Data Science в 2022, до этого работала в разных сферах
   - Data Scientist в OOO "Математический хаб" (с 2023)
@@ -33,16 +28,17 @@
 - [Telegram](https://t.me/Lidiya_cutie)
 - [Kaggle](https://www.kaggle.com/lidiyacutie)
 - [linkedin](https://www.linkedin.com/in/lidya-korotkova-a363b5274)
+
+* 🎓 Образование:
+  - РГПУ (Магистр):
+  - РАНХиГС (Переподговка): Экономика и управление на предприятии
+  - Skillfactory (2023): Data Science
+  - Mathshub (2024): ML-engineer
 ---
 
 ### Hello! 👋
 
 ### ✨ About me in 30 seconds ✨ 
-* 🎓 Education:
-  - RGPU (Master):
-  - RANEPA (Retraining): Economics and enterprise management
-  - Skillfactory: Data Science
-  - Mathshub: ML-engineer
    
 * Started exploring Data Science in 2022 after working in various fields
   - Data Scientist at OOO "Mathematical Hub" (since 2023)
@@ -62,3 +58,9 @@
 - [Telegram](https://t.me/Lidiya_cutie)
 - [Kaggle](https://www.kaggle.com/lidiyacutie)
 - [linkedin](https://www.linkedin.com/in/lidya-korotkova-a363b5274)
+
+* 🎓 Education:
+  - RGPU (Master):
+  - RANEPA (Retraining): Economics and enterprise management
+  - Skillfactory: Data Science
+  - Mathshub: ML-engineer
