@@ -22,7 +22,7 @@
 - Skills: Python, Pandas, Numpy, Sklearn, Seaborn, SQL, SQLite, PostgreSQL, MySQL, Работа с базами данных, Big Data, Data Science, Tableau, Power BI, Визуализация данных, Machine Learning, Базы данных, Linux, Git, Работа с большим объемом информации, Аналитика, Plotly, Jupiter, Сводные таблицы
 
 ### ⚡️ В настоящее время ⚡️
-- Являюсь Data Scientist образовательной платформы
+- CDO, hands-on in MLOps
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/Lidiya_cutie)
@@ -52,7 +52,7 @@
 
 
 ### ⚡️ Currently ⚡️
-- I'm a ML-engineer at an IT company & Data Scientist of an educational platform
+- CDO, hands-on in MLOps
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/Lidiya_cutie)
