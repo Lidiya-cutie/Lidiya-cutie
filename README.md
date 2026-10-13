@@ -4,7 +4,8 @@
 
 * Окунулась в Data Science в 2022, до этого работала в разных сферах
   - Data Scientist в OOO "Математический хаб" (с 2023)
-  - CDO "IT-компании" (с 2024)
+  - ML Engineer в "IT-компании" (с 2024)
+  - CDO в "IT-компании" (с 2026)
 
 * Область интересов: анализ данных, использование методов машинного обучения и СV
 * На данный момент активно вникаю в Data Science и Maсhine Learnning
@@ -43,6 +44,7 @@
 * Started exploring Data Science in 2022 after working in various fields
   - Data Scientist at OOO "Mathematical Hub" (since 2023)
   - ML Engineer at "an IT company" (since 2024)
+  - CDO at "an IT company" (since 2026)
 * Interests: data analysis, machine learning, and computer vision
 
 * Currently deepening knowledge in Data Science and Machine Learning 
